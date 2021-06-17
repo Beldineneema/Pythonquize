@@ -66,6 +66,14 @@ def dublicate():
 #         if (n%7==0):
 #         print(n)
 
+# Question 7
+def greet_student():
+    students = [{"age": 19, "name": "Eunice"}, {"age": 21, "name": "Agnes"}, {"age": 18, "name": "Teresa"}, {"age": 22, "name": "Asha"}],
+    for student in students:
+       print(students)
+        
+greet_student()
+
 
 
 
